@@ -1,5 +1,5 @@
 
-//从库中引入函数。urlopen有几个参数，未加代表使用默认参数
+#从库中引入函数。urlopen有几个参数，未加代表使用默认参数
 from urllib.request import urlopen
 
 #urllib.request.urlopen()函数用于实现对目标url的访问。
